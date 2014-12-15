@@ -13,6 +13,7 @@
 -	Tombstone
 -	Dodge City
 -	The All Seeing Eye (Google logo hidden in it, Maybe forces reveals the hand or few cards in it at random)
+-	The Raven (low attack lvl, high power lvl. When he's out, he causes a monsters to sit in contemplation. If he's not destroyed, the monster will fall into madness.)
 
 # Native American
 -	Geronimo
@@ -51,6 +52,7 @@
 -	Holy water
 -	Jack Frost
 -	Sinter Klass
+-	Robin Hood
 
 # Chinese
 -	Clay Warriors
