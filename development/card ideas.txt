@@ -29,6 +29,8 @@
 -	Kitsune
 -	Kappas
 -	Oni
+-	Ninja (Sneak attack, same as charge)
+-	Samurai
 
 # Egyptian
 -	Osiris
@@ -47,6 +49,8 @@
 -	Arthur Pendragon
 -	Alphito, the White Goddess
 -	Holy water
+-	Jack Frost
+-	Sinter Klass
 
 # Chinese
 -	Clay Warriors
