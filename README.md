@@ -15,5 +15,5 @@ Open-source TCG based on Mythos
 
 ----
 #### Credits
-Based on an original idea & dream of Nelson Carrasquillo of Justifiable Concepts. 
+Based on an original idea & dream of Nelson V. Carrasquillo of Justifiable Concepts. 
 Made in collaboration with Grayson A.C. Laramore of Atelier Abbey.
