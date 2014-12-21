@@ -58,8 +58,10 @@ Any special attribute a card has is instantly Materialized.
 #### Cycle
 When both players have completed their turn phase, eg. Each player has drawn, called forth, attacked [if applicable] then a cycle is completed.  
 
+#### Lucky Strike
+When a weaker being attacks a powerful being it can be successful, with a penalty of -1 to the attacking beings ATK points, if the attacking Evocator Rolls two D6 Dice and Rolls a 7 or 11. Any other number results in a failure and no damage is done.
 ----
 
 Game Dictionary 
-REVISION - 2014-12-20 16:00 
-REVISED BY - Grayson
+REVISION - 2014-12-20 17:53
+REVISED BY - Nelson
