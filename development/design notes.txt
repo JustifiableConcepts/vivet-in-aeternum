@@ -1,0 +1,10 @@
+NOTES ON CARD DESIGN
+
+MOCK UP V 1 – Done: 12/18/14
+Top info = Name and Cost Circle [Maybe color of stroke on name can mean something?][Color of swirl as well?]
+Bottom Info = Card Type [Manakoa or Criatura Mítico or Blessed/Cursed Hallow] Special attribute[if any] Special attribute [if any] Relic origin. Attack and Defense Octagon and Health Banner.
+
+
+- Card art will encompass the whole card [ 3x4 in working model ] with the information contained in as minimal box space as possible. Meaning if the information is shorter so too shall the box which contains it. [workable] 
+
+THE ART IS KING IN VIA!

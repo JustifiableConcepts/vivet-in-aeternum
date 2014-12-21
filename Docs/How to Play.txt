@@ -1,0 +1,72 @@
+Game Mechanics [Working]
+
+HOW TO WIN THE GAME – Get your opposing Evocator's LP to Zero [0]
+
+HOW TO PREVENT FROM LOSING THE GAME – Call Forth the tools at your disposal and keep your opponent from getting to your LP.
+
+Deck Limits: There are two types of deck limits, One: the amount of cards you can have in one deck is 30 [ working ]. Two: according to an Evocator's level there is also a Cost of Will Limit
+
+STARTING OUT
+
+-Each player pulls their prepared onslaught, the 3-7 pre-selected cards. A player's level determines the amount of Pre-selected cards they are allowed to have. [In tournament/exhibition settings, all players are MAX Level and can prepare up to 7 cards.]
+
+- Each player rolls a 7-sided Die player with highest number chooses to go first [P1] or second [P2]. P1 gets to draw another card while P2 gets a bounus 100 Will
+
+- Player who goes first [P1] draws another card.
+
+- P1 Calls Forth Card if applicable.
+
+- Attack phase, if applicable [If P1 has a card with charge then p1 can attack instantly.] If not, then P1 ends their turn.
+
+- P2 commences turn. Same order as P1 
+
+- Each Evocator gets 1000 Will Points [ WORKING ]at the beginning of the Bout. Will is regenerated for each player by 100 each cycle unitl 3000 Will is reached. [ WORKING ] 
+
+- Players can only have 10 cards in hand. If they draw into more then the drawn card is banished into the Abyss.  
+
+- Life Points [LP] = Each Evocator gets 20 Life Points. Life is precious and Evocators are no match for Manakoa or Criatura on their own.
+
+
+
+
+
+- Health Points [HP] [ Working ] = - How long the Card can stay alive 
+NO card shall have more than 30 HP. 
+
+- Attack Points [Atk] = - How Powerful a Card's Attack is - 
+NO card shall have less than 2 atk [base value], NO card shall have more than 12 atk [base value]
+
+- Defense Points [Def] = - How hard it is for the Card to get attacked – NO card shall have less than 1 def [base value], NO card shall have more than 12 def [base value]
+
+- Special Abilites = Some cards have abilities attached to them such as charge, or The General Attribute, etc. Abilities are explained on card Sans “charge”[see latest version of prototype]
+
+- Type = This shows what kind of card it is. This can have further effect when combined with other cards and their abilities [See Dictionary for more information] NO card shall have more than one type.
+
+- Lucky Strike = When a weaker being attacks a stronger being the attack can be successful, with a -1 to attack effect, if the Evocator of the weaker being rolls One 7-sided Die and gets an EVEN NUMBER. If the roll is unsuccessful [An Odd number was rolled] the attack is a failure and there is no damage done.
+
+- Evocator Abilities = TBD
+
+
+
+PLACEMENT OF CARDS ON FIELD:
+
+- Player's Deck of cards goes on bottom right corner of field.
+
+- Defeated Beings and used/defeated Hallows go to the abyss located above player's deck
+
+- Hallows pertaining to Land or any continuous effect goes in the center middle above all other cards on the respective player's side of the field
+
+- Ranks = Placement of cards on either two levels, farther back closer to player is the 2nd rank. One up, closer to the opponent is the 1st rank. Beings with Ranged attribute can be placed in any rank and be effective. However beings without it are best suited in the 1st rank. If there is no beings in the first rank but there is in the second rank, the second rank is now treated as the first. The field is ever flowing.
+
+- Each rank can only hold 7 cards 
+
+Single Player/PVE Ideation
+
+
+DUNGEONS – Quick and fun. No story just objective[s] to obtain. Garnishes little XP compared to Campaign. Completely Random. 
+
+CAMPAIGN [AKA Evocator's Journey] – On going adventure[s] created by the developers [That's us!] in which the player battles through a DnD style campaign to earn XP and rank up their Evocator. 
+
+Evo Classes – comes about when the player is ready to take on their first Evocator ability. [up to 3? can be used.]  
+
+
