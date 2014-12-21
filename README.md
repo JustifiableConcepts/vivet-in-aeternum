@@ -10,8 +10,9 @@ Vivet in Aeternum [ViA] is a fast-paced Open Source Trading Card Game [TCG]. ViA
 ----
 #### Repo Structure
 - README.MD - Information about the game; Game Bible, how to play, references, and credits
-- /development - Workfiles for the cards and artwork. After the first phase of the game, this will be cleaned up.
-- /art - Finished artwork for the cards and board
+- /development - Initial Dev notes, After the first phase of the game, this will be removed
+- /game - Finished artwork for the cards and board
+- /artwork - Workfiles for the cards and artwork.
 
 ----
 #### Credits
