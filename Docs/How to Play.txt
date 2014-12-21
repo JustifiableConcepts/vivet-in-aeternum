@@ -49,7 +49,7 @@ Some cards have abilities attached to them such as charge, or The General Attrib
 This shows what kind of card it is. This can have further effect when combined with other cards and their abilities [See Dictionary for more information] NO card shall have more than one type.
 
 **Lucky Strike**
-When a weaker being attacks a stronger being the attack can be successful, with a -1 to attack effect, if the Evocator of the weaker being rolls One 7-sided Die and gets an EVEN NUMBER. If the roll is unsuccessful [An Odd number was rolled] the attack is a failure and there is no damage done.
+When a weaker being attacks a stronger being the attack can be successful, with a -1 to attack effect, if the Evocator of the weaker being rolls Two D6 Dice and Rolls a Seven [7] or Eleven [11]. If the roll is unsuccessful [Any other number was rolled] the attack is a failure and there is no damage done.
 
 **Evocator Abilities**
 TBD
@@ -91,5 +91,5 @@ Comes about when the player is ready to take on their first Evocator ability. [u
 
 ----
 **How to Play**
-REVISION - 2014-12-20 17:30
-REVISED BY - Grayson
+REVISION - 2014-12-20 17:48
+REVISED BY - Nelson
