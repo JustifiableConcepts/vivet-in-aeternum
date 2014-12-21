@@ -88,8 +88,5 @@ On going adventure[s] created by the developers [That's us!] in which the player
 **Evo Classes**
 Comes about when the player is ready to take on their first Evocator ability. [up to 3? can be used.]  
 
-
-----
-**How to Play**
-REVISION - 2014-12-20 17:48
-REVISED BY - Nelson
+**Time limit**
+For quick play, the health gauge per manakoa drops one star per cycle.
