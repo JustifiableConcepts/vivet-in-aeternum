@@ -48,7 +48,7 @@ The area in which used and defeated cards go. Never to be used again in the curr
 [cost] - How much a single card costs an Evocator to have/play.
 
 #### Will Points
-[Will] [ WORKING ] –  Points that dictate how many cards you can play on your turn. Will goes up by 100 every turn until it reaches 3000.
+[Will] [ WORKING ] –  Points that dictate how many cards you can play on your turn. Will goes up by 100 every Cycle until it reaches 3000.
 
 #### Materialization time
 The moment a Manakoa or Criatura is called they enter the Materialization phase. They can't attack until next turn. Unless they are a feisty Spirit and have the Ability “Charge.” 
