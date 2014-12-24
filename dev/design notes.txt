@@ -8,3 +8,19 @@ Bottom Info = Card Type [Manakoa or Criatura Mítico or Blessed/Cursed Hallow] S
 - Card art will encompass the whole card [ 3x4 in working model ] with the information contained in as minimal box space as possible. Meaning if the information is shorter so too shall the box which contains it. [workable] 
 
 THE ART IS KING IN VIA!
+
+----
+
+## Play mode ideas:
+
+#### 6-card-cycle
+Every round 6 artifacts are drawn from the satchel. After that turn, any non-played artifacts are discarded. If the satchel runs empty, the discard pile is shuffled and dealt.
+
+The goal of this style play is keep the game moving, rather than hoarding a cards for a specific play, every turn the player gets a great chance to make a master play.
+
+Somethings to consider:
+  - This does not affect the "Mana" build up. Great card at the beginning? Sorry folks.
+  - Cards in play, do they get KO'd (Permanent discard) or get put back in the deck? Do the artifacts produce a impression or a residual copy of the original?
+  - Do players start with a deck of 10, then get a chance to escavate new artifacts?
+  
+## 
