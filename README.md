@@ -5,16 +5,22 @@ Vivet in Aeternum [ViA] is a fast-paced Open Source Trading Card Game [TCG]. ViA
 
 =================
 
-
+## GETTING STARTED
+  __This game is in SUPER EARLY BETA, we haven't even figured out how to play__
+  1. Download the zip file
+  2. Print the cards under **Assets**
+  3. Read through all the pages in "Docs"
 
 ----
-#### Repo Structure
-- README.MD - Information about the game; Game Bible, how to play, references, and credits
-- /development - Initial Dev notes, After the first phase of the game, this will be removed
-- /game - Finished artwork for the cards and board
-- /artwork - Workfiles for the cards and artwork.
+#### File Structure
+- **README.MD** - Basic information and guide to getting start.
+- **LICENSE** - Terms of agreement of the game. This isn't software so computer crashes are all on you. 
+- **/Docs** - Various docs to get a person started in playing
+- **/Assets** - Finished artwork for the cards and board. 
+- **/Art** - Workfiles for the cards and artwork.
+- __/dev__ - SUPER EARLY BETA crap. Ideas and notes. Will be destroyed after v1.0 release.
 
 ----
 #### Credits
 Based on an original idea & dream of Nelson V. Carrasquillo of Justifiable Concepts. 
-Made in collaboration with Grayson A.C. Laramore of Atelier Abbey.
+Made in collaboration with Grayson A.C. Laramore & RitRit of Atelier Abbey 
