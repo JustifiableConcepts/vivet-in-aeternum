@@ -6,7 +6,7 @@ Vivet in Aeternum [ViA] is a fast-paced Open Source Trading Card Game [TCG]. ViA
 =================
 
 ### GETTING STARTED
-  __This game is in SUPER EARLY BETA, we haven't even figured out how to play__
+  __This game is in SUPER EARLY ALPHA, we haven't even figured out how to play__
   1. Download the zip file
   2. Print the cards under **Assets**
   3. Read through all the pages in "Docs"
@@ -18,7 +18,7 @@ Vivet in Aeternum [ViA] is a fast-paced Open Source Trading Card Game [TCG]. ViA
 - **/Docs** - Various docs to get a person started in playing
 - **/Assets** - Finished artwork for the cards and board. 
 - **/Art** - Workfiles for the cards and artwork.
-- __/dev__ - SUPER EARLY BETA crap. Ideas and notes. Will be destroyed after v1.0 release.
+- __/dev__ - SUPER EARLY ALPHA crap. Ideas and notes. Will be destroyed after v1.0 release.
 
 ----
 ### Credits
