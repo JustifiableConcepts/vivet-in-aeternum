@@ -60,8 +60,14 @@ When both players have completed their turn phase, eg. Each player has drawn, ca
 
 #### Lucky Strike
 When a weaker being attacks a powerful being it can be successful, with a penalty of -1 to the attacking beings ATK points, if the attacking Evocator Rolls two D6 Dice and Rolls a 7 or 11. Any other number results in a failure and no damage is done.
-----
 
-Game Dictionary 
-REVISION - 2014-12-20 17:53
-REVISED BY - Nelson
+#### Card Attributes
+  - **Leader** - Unites 2 or more cards of 500 points or less up to a total of 1000 to fight as one Manakoa.
+  - **Tactician** - Can focus on more than one enemy. Ignores Challenge distractions.
+  - **Swift** - Rushes into battle, can fight right away. Ignores Materialization time.
+  - **Special** - Has a unique ability unlike any other, follows as described.
+  - **Lucky** - Gets added bonus to the Lucky strike rule.
+  - **Charismatic** - Bring along one extra card into battle with this card.
+  - **Greedy** - Draw an extra card after this card is put into play.
+  - **Blood thirst** - Gains a bonus to attack for each Manakoa defeated in the cycle by this card.
+
