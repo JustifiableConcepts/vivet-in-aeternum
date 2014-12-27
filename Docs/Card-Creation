@@ -139,7 +139,7 @@ Google Spreadsheets has 3 columns: (but use whatever spreadsheet you wanna use)
 2. def (Column B)
 3. mana (Column C)
 ````
-// Average of ATK & DEF, downed down. Times 100
+// Average of ATK & DEF, rounded down,Times 100
 PRODUCT(100,ROUNDDOWN(AVERAGE(A2,B2))))
 ```
 
