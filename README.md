@@ -21,6 +21,14 @@ Vivet in Aeternum [ViA] is a fast-paced Open Source Trading Card Game [TCG]. ViA
 - __/dev__ - SUPER EARLY ALPHA crap. Ideas and notes. Will be destroyed after v1.0 release.
 
 ----
+### Card Creation
+  1. Download the Art file for the card
+  2. Reference to Matrix in Docs/Card Creation.txt, select one of the attack levels
+  3. Add one attribute, if desired. (Note, that a card can not exceed 1500 points)
+  4. Combine that artwork, numbers selected, any attributes, and the Relic texts.
+  5. Save, print, play, and share!
+
+----
 ### Credits
 Based on an original idea & dream of Nelson V. Carrasquillo of Justifiable Concepts. 
-Made in collaboration with Grayson A.C. Laramore & RitRit of Atelier Abbey 
+Made in collaboration with Grayson A.C. Laramore of Atelier Abbey & RitRit
