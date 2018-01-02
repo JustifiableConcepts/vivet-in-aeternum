@@ -1,7 +1,7 @@
 # Vivet In Aeternum (ALPHA)
 ### __Live on Forever__
 
-Vivet in Aeternum [ViA] is a fast-paced Open Source Trading Card Game [TCG]. ViA aims to create a fun and unique experience utilizing a creative battling system made by its developers which brings Warriors, Monsters, Legends and Myths cemented in human history to the forefront. ViA aims to bring a one-of-a-kind angle to the ever popular world of Trading Card/Collectable Card Games.
+Vivet in Aeternum [ViA] is a fast-paced Free-To-Play Collectible Card Game [CCG]. ViA aims to create a fun and unique experience utilizing a creative battling system made by its developers which brings Warriors, Monsters, Legends and Myths cemented in human history to the forefront. ViA aims to bring a one-of-a-kind angle to the ever popular world of Trading Card/Collectable Card Games.
 
 =================
 
